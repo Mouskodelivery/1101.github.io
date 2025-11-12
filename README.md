@@ -1,6 +1,4 @@
-# 1101.github.io
-power up
-[Untitled-1.html](https://github.com/user-attachments/files/23491433/Untitled-1.html)
+
 <!DOCTYPE html>
 <html>
 <head>
